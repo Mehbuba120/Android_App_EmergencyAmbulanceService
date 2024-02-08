@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "662293328484",
+    "project_id": "emergencyapp-caf6a",
+    "storage_bucket": "emergencyapp-caf6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662293328484:android:9bfd90ef6496b57a6de571",
+        "android_client_info": {
+          "package_name": "com.example.emergencyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662293328484-k7gd78hcd87fsho3hpa5hh3sd8ruo4eg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlC45Sf1_CqNzTPjQeoJvFtxP6_pPSj9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662293328484-k7gd78hcd87fsho3hpa5hh3sd8ruo4eg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
